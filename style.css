@@ -480,4 +480,7 @@ footer p{
     display: flex;
     flex-direction: column;
 }
+.banner-1 img{
+    max-width: 300px;
+}
 }
