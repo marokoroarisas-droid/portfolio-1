@@ -446,6 +446,7 @@ footer p{
 
 .footer-nav {
     display: flex;
+    justify-content: space-between;
     font-size: 14px;
     font-weight: bold;
     text-transform: capitalize;
