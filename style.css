@@ -402,18 +402,18 @@ footer p{
 @media (max-width: 767px) {
 .logo {
     margin: 10px ;
-    font-size: 25px;
+    font-size: 20px;
 }
 .main-nav {
-    font-size: 20px;
+    font-size: 14px;
     margin-right: 20px;
 }
 
 .title h2{
-    font-size: 30px;
+    font-size: 24px;
 }
 .mv-heading{
-    font-size: 30px;
+    font-size: 24px;
 }
 .section-title {
     font-size: 30px;
