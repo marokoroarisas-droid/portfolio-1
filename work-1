@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <title>Arisa Kamiya portfolio</title>
+        <meta name="description" content="webデザイナー紙屋亜里沙のポートフォリオです。">
+        <link rel="icon" type="image/png" href="#">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS -->
+        <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
+        <link href="style.css" rel="stylesheet">
+    </head>
+
+    <body>
+            <header id="header">
+                <div class="wrapper">
+                    <h2 class="logo"><a href="index.html">Arisa<br>Kamiya</a></h2>
+                    <nav>
+                        <ul class="main-nav">
+                            <li><a href="index.html#works">Works</a></li>
+                            <li><a href="index.html#about">About</a></li>
+                            <li><a href="index.html#contact">Contact</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </header>
+
+            <section class="workspage wrapper" >
+            <h2 class="section-title bdr01" >Works</h2>
+                <div class="lp-1">
+                    <div class="works-title">
+                      <h5 class="works-heading">LP</h5>
+                      <h5 class="client">自主制作　WIXにてLPサイト制作</h5>
+                    </div>
+                    <div class="img-group">
+                    <a href="https://marokoroarisas.wixsite.com/my-site-5" >
+                        <img src="images/LP_1.jpeg" alt="LP制作サービスのLP">
+                    </a>
+                    </div>
+                     <p>架空の「医療機関向けLP制作会社」のLPを制作しました。コンテンツ内容の制定、デザイン、WIXでの実装を行っています。</p>
+                    <div class="linkbtn">
+                        <div class="back">
+                            <a href="work-1.html" class="triangle">back</a>
+                        </div>
+                        <div class="next">
+                            <a href="work-3.html" class="triangle">next</a>
+                        </div>
+                    </div>
+                </div>
+        </section><!-- /#works -->
+
+        <footer id="footer">
+             <div class="wrapper">
+                <nav>
+                    <ul class="footer-nav">
+                     <li><a href="index.html">Top</a></li>
+                     <li><a href="#works">Works</a></li>
+                     <li><a href="#about">About</a></li>
+                     <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </nav>
+             <p class="copyright">© 2025 Arisa Kamiya</p>
+             </div>
+        </footer>
+    </body>
+</html>
