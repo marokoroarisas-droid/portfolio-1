@@ -157,13 +157,13 @@ header .wrapper{
     background-position: center;
 }
 .design-bg{
-    background-image: url(../images/design.jpg);     
+    background-image: url(design.jpg);     
 }
 .medical-bg{
-    background-image: url(../images/medical.jpg);
+    background-image: url(medical.jpg);
 }
 .entertainment-bg{
-    background-image: url(../images/entertainment.jpg);
+    background-image: url(entertainment.jpg);
 }
 .heading{
     background-color: rgba(0, 0, 0, 0.3);
